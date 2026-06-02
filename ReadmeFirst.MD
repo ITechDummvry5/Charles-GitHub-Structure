@@ -12,7 +12,7 @@ This repo is the entry point to my GitHub profile. I maintain seven repositories
 
 ## Repository Index
 
-### [`charles-web-lab`](https://github.com/charles/charles-web-lab)
+### [`charles-web-lab`](https://github.com/ITechDummvry5/charles-web-lab)
 > Experiments, web projects, UI components, landing pages, and development resources.
 
 A workspace for testing ideas and building UI experiments. Projects here range from landing page clones to interactive 3D scenes.
@@ -26,7 +26,7 @@ A workspace for testing ideas and building UI experiments. Projects here range f
 
 ---
 
-### [`charles-code-vault`](https://github.com/charles/charles-code-vault)
+### [`charles-code-vault`](https://github.com/ITechDummvry5/charles-code-vault)
 > A collection of code snippets, templates, frameworks, and web development assets.
 
 Reusable code ready to drop into any project. Focused on utility — boilerplates, component libraries, and helper functions.
@@ -40,7 +40,7 @@ Reusable code ready to drop into any project. Focused on utility — boilerplate
 
 ---
 
-### [`charles-dev-collection`](https://github.com/charles/charles-dev-collection)
+### [`charles-dev-collection`](https://github.com/ITechDummvry5/charles-dev-collection)
 > Personal collection of web development projects, reusable components, and learning resources.
 
 Complete, standalone web applications built as personal projects and learning exercises.
@@ -54,7 +54,7 @@ Complete, standalone web applications built as personal projects and learning ex
 
 ---
 
-### [`charles-playground`](https://github.com/charles/charles-playground)
+### [`charles-playground`](https://github.com/ITechDummvry5/charles-playground)
 > Building, testing, and exploring ideas in web development and design.
 
 Low-stakes sandbox for motion, canvas, and creative front-end experiments. Work-in-progress is expected here.
@@ -68,7 +68,7 @@ Low-stakes sandbox for motion, canvas, and creative front-end experiments. Work-
 
 ---
 
-### [`charles-studio`](https://github.com/charles/charles-studio)
+### [`charles-studio`](https://github.com/ITechDummvry5/charles-studio)
 > Creative web projects, UI/UX concepts, landing pages, and interactive experiences.
 
 Polished, production-quality UI work. Landing pages, product showcases, and portfolio-grade builds.
@@ -82,7 +82,7 @@ Polished, production-quality UI work. Landing pages, product showcases, and port
 
 ---
 
-### [`charles-codebase`](https://github.com/charles/charles-codebase)
+### [`charles-codebase`](https://github.com/ITechDummvry5/charles-codebase)
 > Central repository for web applications, experiments, and development tools.
 
 Monorepo organized by technology. The most comprehensive of the six — structured for long-term maintenance.
@@ -109,7 +109,7 @@ charles-codebase/
 
 ---
 
-### [`charles-tutorial-yt-course`](https://github.com/charles/charles-tutorial-yt-course)
+### [`charles-tutorial-yt-course`](https://github.com/ITechDummvry5/charles-tutorial-yt-course)
 > Practice builds and code from YouTube tutorials and online courses — organized by source.
 
 A dedicated repo for learning. Each folder maps to a YouTube channel or online course. Code is written along with the tutorial, not copied.
