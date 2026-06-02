@@ -83,7 +83,7 @@ Polished, production-quality UI work. Landing pages, product showcases, and port
 ---
 
 ### [`charles-codebase`](https://github.com/ITechDummvry5/charles-codebase)
-> Central repository for web applications, experiments, and development tools.
+>Full-stack projects with a backend — PHP, Node.js, and database-driven applications.
 
 Monorepo organized by technology. The most comprehensive of the six — structured for long-term maintenance.
 
