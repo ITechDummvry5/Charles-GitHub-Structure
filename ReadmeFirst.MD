@@ -13,7 +13,7 @@ This repo is the entry point to my GitHub profile. I maintain seven repositories
 ## Repository Index
 
 ### [`charles-web-lab`](https://github.com/ITechDummvry5/charles-web-lab)
-> Experiments, web projects, UI components, landing pages, and development resources.
+> Experiments, web projects, UI components, landing pages-Clone, and development resources.
 
 A workspace for testing ideas and building UI experiments. Projects here range from landing page clones to interactive 3D scenes.
 
