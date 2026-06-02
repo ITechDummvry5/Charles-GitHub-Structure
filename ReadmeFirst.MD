@@ -13,7 +13,7 @@ This repo is the entry point to my GitHub profile. I maintain seven repositories
 ## Repository Index
 
 ### [`charles-web-lab`](https://github.com/ITechDummvry5/charles-web-lab)
-> Experiments, web projects, UI components, landing pages-Clone, and development resources.
+> Experiments, web projects, UI components, landing page clones, and development resources.
 
 A workspace for testing ideas and building UI experiments. Projects here range from landing page clones to interactive 3D scenes.
 
@@ -41,9 +41,9 @@ Reusable code ready to drop into any project. Focused on utility — boilerplate
 ---
 
 ### [`charles-dev-collection`](https://github.com/ITechDummvry5/charles-dev-collection)
-> Personal collection of web development projects, reusable components, and learning resources.
+> Frontend-only complete web applications — no backend, no database.
 
-Complete, standalone web applications built as personal projects and learning exercises.
+Complete, standalone projects built with HTML, CSS, and JavaScript. Each app runs entirely in the browser.
 
 **Examples**
 - Scholarship Finder (ACADLINK)
@@ -83,29 +83,28 @@ Polished, production-quality UI work. Landing pages, product showcases, and port
 ---
 
 ### [`charles-codebase`](https://github.com/ITechDummvry5/charles-codebase)
->Full-stack projects with a backend — PHP, Node.js, and database-driven applications.
+> Full-stack projects with a backend — PHP, Node.js, and database-driven applications.
 
-Monorepo organized by technology. The most comprehensive of the six — structured for long-term maintenance.
+Projects here have a server, database, or backend logic. Organized by technology stack for long-term maintenance.
 
 ```
 charles-codebase/
-├── bootstrap/
-├── admin-dashboard/
-├── landing-pages/
-├── javascript-projects/
-├── react-projects/
-├── threejs-projects/
 ├── php-projects/
+├── node-projects/
+├── react-projects/
+├── admin-dashboard/
+├── authentication-system/
+├── e-commerce/
 ├── components/
 └── templates/
 ```
 
 **Examples**
-- Admin Dashboard
-- E-Commerce UI
-- Expense Tracker
-- 3D Product Viewer
-- Authentication System
+- Admin Dashboard (PHP + MySQL)
+- E-Commerce UI (cart, orders, database)
+- Authentication System (login, register, sessions)
+- Car Rental System (CRUD + database)
+- 3D Product Viewer (React + backend API)
 
 ---
 
@@ -146,4 +145,4 @@ Languages and tools used across all repositories:
 
 ## Contact
 
-GitHub — [@charles](https://github.com/charles)
+GitHub — [@ITechDummvry5](https://github.com/ITechDummvry5)
